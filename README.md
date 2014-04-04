@@ -28,3 +28,19 @@ into a memory location using IN to put it on the accumulator, and then STA to tr
 created my loop. I displayed the value on the accumulator to output 0, subtract one, display the value on 
 the accumulator to output 1 and also write it to MEM, and finally subtracting one more from the accumulator
 and displaying that on output 2. Rinse and repeat. 
+
+###Loop Test Screen Captures
+
+First iteration
+
+![1](loop_1.JPG "1")
+
+Second iteration
+
+![2](loop_2.JPG "2")
+
+Third iteration
+
+![2](loop_3.JPG "3")
+
+As you can see, the loop decrements each counter and "rolls back" when you get to 0. 
